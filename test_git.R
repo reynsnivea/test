@@ -13,3 +13,5 @@ library(jsonlite)
 config <- fromJSON(txt = "test_config.json", simplifyDataFrame = TRUE)
 
 write.csv
+
+#add spome stuff here 
