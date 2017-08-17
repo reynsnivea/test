@@ -10,6 +10,6 @@
 
 library(jsonlite)
 
-config <- fromJSON(txt = "config.json", simplifyDataFrame = TRUE)
+config <- fromJSON(txt = "test_config.json", simplifyDataFrame = TRUE)
 
 write.csv
