@@ -14,4 +14,6 @@ config <- fromJSON(txt = "test_config.json", simplifyDataFrame = TRUE)
 
 write.csv
 
-#add spome stuff here 
+#add some stuff here 
+
+setwd("c:\testing\something")
