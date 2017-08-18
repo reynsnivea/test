@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "#Test GIT\n\n#Added a new line\n\n#new test\n\n#another\n\n#added to gitignore\n\nlibrary(jsonlite)\n\nconfig <- fromJSON(txt = \"config.json\", simplifyDataFrame = TRUE)\n\nwrite.csv\n\n#add production working directory here\n\nsetwd(\"c:\\production\")\n",
+    "created" : 1502981755852.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3188338720",
+    "id" : "30B6232",
+    "lastKnownWriteTime" : 1503043335,
+    "last_content_update" : 1503043335,
+    "path" : "d:/gebruikersgegevens/reynsni/Desktop/test_git/test_git.R",
+    "project_path" : "test_git.R",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
