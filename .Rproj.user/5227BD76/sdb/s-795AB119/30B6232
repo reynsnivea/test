@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "#Test GIT\n\n#Added a new line\n\n#new test\n\n#another\n\n#added to gitignore\n\nlibrary(jsonlite)\n\nconfig <- fromJSON(txt = \"config.json\", simplifyDataFrame = TRUE)\n\nwrite.csv\n\n#add production working directory here\n\n<<<<<<< HEAD\nsetwd(\"c:\\production\")\n=======\n#This is working and i want to add it to the production\n\n  \"this is working\"\n\n>>>>>>> e3a18c6... working feature\n",
+    "contents" : "#Test GIT\n\n#Added a new line\n\n#new test\n\n#another\n\n#added to gitignore\n\nlibrary(jsonlite)\n\nconfig <- fromJSON(txt = \"config.json\", simplifyDataFrame = TRUE)\n\nwrite.csv\n\n#add production working directory here\n\nsetwd(\"c:\\production\")\n\n#This is working and i want to add it to the production\n\n  \"this is working\"\n\n",
     "created" : 1502981755852.000,
-    "dirty" : false,
+    "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2345494374",
+    "hash" : "1433789358",
     "id" : "30B6232",
     "lastKnownWriteTime" : 1503043441,
-    "last_content_update" : 1503043441,
+    "last_content_update" : 1503043739284,
     "path" : "d:/gebruikersgegevens/reynsni/Desktop/test_git/test_git.R",
     "project_path" : "test_git.R",
     "properties" : {
