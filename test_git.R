@@ -13,3 +13,7 @@ library(jsonlite)
 config <- fromJSON(txt = "config.json", simplifyDataFrame = TRUE)
 
 write.csv
+
+#add production working directory here
+
+setwd("c:\production")
