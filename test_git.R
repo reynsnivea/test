@@ -21,4 +21,8 @@ setwd("c:\production")
 #This is working and i want to add it to the production
 
   "this is working"
+  
+#this is a new feature
+  
+  rm(list=ls())
 
